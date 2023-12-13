@@ -11,6 +11,11 @@ const Home = () => {
             <p>This Api is mainly used for making POST Request <br />
                 And this api send two string data such as "fname" and "lname"<br />
                 To the server.</p>
+            <p>
+                How my Api take data to post in database?<br />
+                It uses the json text format.<br />
+                
+            </p>
             <p>Here i have used mongodb as a server.<br />
                 Express as a API maker. <br />
                 Node as backend.<br />
